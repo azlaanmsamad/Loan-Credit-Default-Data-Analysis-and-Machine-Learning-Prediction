@@ -1,6 +1,8 @@
 # Loan-Credit-Default-Data-Analysis-and-Machine-Learning-Prediction
 This repository contains exploratory Data analysis to a bank loan default dataset. This is done in order to clean the data and make it usable for machine learning prediction.
 
+Data Download Link: 
+
 Observation on Data Analysis: 
 - Highly correlated variables are (Applicant's Income & Loan Amount) and (Credit History & Loan Status)
 ![alt text](https://github.com/azlaanmsamad/Loan-Credit-Default-Data-Analysis-and-Machine-Learning-Prediction/blob/master/Tutorials/coursera/exploratory%20data%20analysis/plots/corr.png)
